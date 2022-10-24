@@ -23,3 +23,6 @@
 [![Linkedin: Anays Fernanda](https://img.shields.io/badge/-anaysfernandadesouza-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anaysfernandadesouza/)](https://www.linkedin.com/in/anaysfernandadesouza/)
 [![Gmail Badge](https://img.shields.io/badge/-a.fernandadesouza@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:a.fernandadesouza@gmail.com)](mailto:a.fernandadesouza@gmail.com)
 [![GitHub Anays Fernanda]( https://img.shields.io/github/followers/AnaysFernanda?label=follow&style=social)](https://github.com/anaysfernanda)
+
+[![card](https://github-readme-stats.vercel.app/api?username=anaysfernanda&theme=tokyonight&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![iuricode](https://github-readme-stats.vercel.app/api/top-langs/?username=anaysfernanda&layout=compact=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
