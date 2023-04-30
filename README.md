@@ -1,6 +1,6 @@
 ## 💜 Olá, meu nome é <strong>Anays Fernanda</strong>
 
-- 🌱 Estou aprofundando meu conhecimento em Front-End.
+- 🌱 Estou aprofundando meu conhecimento em Front-End e Back-End.
 - 🎓 <strong>Formação:</strong> Sou formada em Nutrição, e atualmente estudo Desenvolvimento Web Full Stack na <a href="https://www.growdev.com.br/">Growdev</a>.
 - 💼 <strong>Experiência Profissional:</strong> Gerente de Produção de uma fábrica de alimentos.
 - &#128692; <strong>Hobbies:</Hobbier> Passear com os cachorros, ver séries e cozinhar.
