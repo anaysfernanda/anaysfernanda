@@ -1,4 +1,4 @@
-## 💜 Olá, meu nome é <strong>Anays Fernanda</strong>
+## 💜 Olá, meu nome é <strong>Fernanda Cavalcante</strong>
 
 - 🌱 Estou aprofundando meu conhecimento em Front-End e Back-End.
 - 🎓 <strong>Formação:</strong> Sou formada em Nutrição, e atualmente estudo Desenvolvimento Web Full Stack na <a href="https://www.growdev.com.br/">Growdev</a>.
